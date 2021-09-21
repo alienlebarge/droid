@@ -1,0 +1,5 @@
+# General
+.DS_Store
+
+# Ignore IDE files
+/.nova
