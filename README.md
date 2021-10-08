@@ -14,5 +14,6 @@ A repository with patches for [Droid Universal CV Processor Eurorack Module](htt
 │   ├── Episode 7
 │   └── README.md
 ├── README.md
+├── droid.ini         # Default patch that commes with the master module
 └── grille.ini        # (WIP) A reinterpretation of Mutable Instruments Grids
 ```
