@@ -18,3 +18,7 @@ file.
 - 1 master module
 - 2 p2b8
 - 1 p10
+
+## Question or ideas ?
+
+If you have question, ideas of improvement, [let's chat about it](https://github.com/alienlebarge/droid/discussions?discussions_q=label%3Agrille).
