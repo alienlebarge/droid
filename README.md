@@ -11,12 +11,15 @@ A repository with patches for [Droid Universal CV Processor Eurorack Module](htt
 ├── default
 │   └── droid.ini   # default patch that comes with the master module
 ├── episodes        # patch exemples of DMMDM's youtube video
-    ├── README.md
-    ├── episode\ 12
-    ├── episode\ 13
-    ├── episode\ 15
-    ├── episode\ 6
-    └── episode\ 7
+│   ├── README.md
+│   ├── episode\ 12
+│   ├── episode\ 13
+│   ├── episode\ 15
+│   ├── episode\ 6
+│   └── episode\ 7
+└── rmr             # Patch from Red Means Recordings videos
+    ├── README.md
+    └── droid.ini
 ```
 
 ## Find other Droid patch on Github
