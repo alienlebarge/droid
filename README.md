@@ -46,6 +46,13 @@ A repository with patches for [Droid Universal CV Processor Eurorack Module](htt
     ├── README.md
     └── droid.ini
 ```
+## Droid patches posted via Gist
+
+* [Voice routing by Eising](https://gist.github.com/Eising/ee0f0cd42e0a3e5bb1c6f5e83bb0938e)
+* [The monosynth: 4 tracks, 3 drums, 1 synth by odessa](https://gist.github.com/yakovkhalinsky/05416726c719cd42d9dbb2d405cdd204)
+* [five-voices-one-gate by odessa](https://gist.github.com/yakovkhalinsky/8b61eeae641c51a6b3a174d59ef34186)
+* [m4motoquencer_v10 by effiksmusic](https://gist.github.com/effiksmusic/601a73ad86f91ee8413f1b2fa6653469)
+* [Melody Focused Patch; 2 Channel by odessa](https://gist.github.com/yakovkhalinsky/de3d5a91d2dab06479a4cb0b5b7a831b)
 
 ## Find other Droid patch on Github
 
