@@ -37,11 +37,11 @@ A repository with patches for [Droid Universal CV Processor Eurorack Module](htt
 │   └── rmr.ini
 ├── episodes        # patch exemples of DMMDM's youtube video
 │   ├── README.md
-│   ├── episode\ 12
-│   ├── episode\ 13
-│   ├── episode\ 15
-│   ├── episode\ 6
-│   └── episode\ 7
+│   ├── episode-06
+│   ├── episode-07
+│   ├── episode-12
+│   ├── episode-13
+│   └── episode-15
 └── rmr             # Patch from Red Means Recordings videos
     ├── README.md
     └── droid.ini
